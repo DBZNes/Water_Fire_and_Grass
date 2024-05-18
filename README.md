@@ -1,6 +1,6 @@
-<1> Hướng dẫn cài đặt </h1>
+<h1> Hướng dẫn cài đặt </h1>
 
-Bước 1 : Tải Source Code tại \textbf{\href{https://github.com/DBZNes/Water_Fire_and_Grass}{Github}}.
+Bước 1 : Tải Source Code tại: https://github.com/DBZNes/Water_Fire_and_Grass}
 
 Bước 2 : Cài đặt môi trường Python
 
