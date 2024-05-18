@@ -4,9 +4,7 @@ Bước 1 : Tải Source Code tại: https://github.com/DBZNes/Water_Fire_and_Gr
 
 Bước 2 : Cài đặt môi trường Python
 
-Bước 3 : Cài đặt các thư viện cần thiết :
-
-<b> pip install pygame </b>
+Bước 3 : Cài đặt các thư viện cần thiết : <b> pip install pygame </b>
 
 Bước 4 : Mở cmd của window, gõ ipconfig.
 
